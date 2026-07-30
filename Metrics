@@ -1,0 +1,19 @@
+/modules/telemetry/
+│
+├── connectors/               # API / BLE Handlers
+│   ├── apple_health.py       # HealthKit export parser & Webhook listener
+│   ├── garmin_fitbit.py      # OAuth2 stream handlers
+│   └── custom_ble.py         # Direct Bluetooth Low Energy raw packet parser
+│
+├── pipeline/                 # Processing & Normalization
+│   ├── schema.py             # Pydantic models for metric normalization
+│   ├── transformer.py        # Stream aggregation (HRV, Steps, SpO2, Sleep)
+│   └── privacy_shield.py     # Local encryption & differential noise generator
+│
+├── storage/                  # Data Layer
+│   ├── influx_client.py      # Time-series write & query client
+│   └── schema.sql            # Postgres / Timescale relational metadata schema
+│
+└── clone_interface/          # LLM Context Ingestion
+    ├── dynamic_prompt.py     # Formats physical metrics into System Context
+    └── state_evaluator.py    # Algorithmic state determination (e.g., Stress/Fatigue index)
