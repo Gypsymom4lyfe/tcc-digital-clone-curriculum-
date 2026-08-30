@@ -193,6 +193,26 @@ Students trained through this curriculum do not just learn theoretical programmi
 
 ---
 
+## 4. Module: Intentional Delegation & Systems Governance
+
+Delegating to an agent does not mean abdicating agency. Teaching students and young creators that agent architecture requires active intentionality shifts them from passive consumers into deliberate systems orchestrators.
+
+### The Fallacy of "Autopilot"
+Automation without intention produces noise. Delegating a process requires defining boundaries, constraints, and success metrics far more precisely than simply doing a task manually on instinct.
+
+### Architectural Clarity
+To instruct an agent, the creator must first deconstruct their own thought process—clarifying objective functions, error handling, and ethical guardrails.
+
+### The "Conductor" Mindset
+Managing autonomous agents places the human in the role of an orchestrator. You are not stepping away from the work; you are elevating your focus to high-level oversight, alignment, and critical discernment.
+
+### Continuous Stewardship
+Oversight requires active observation of real-time outputs, ensuring that as agents operate across dynamic loops, they remain grounded in their original human intent.
+
+> Framing AI delegation as an exercise in disciplined intent teaches learners that tools never replace the human locus of responsibility—they merely amplify the clarity of the vision behind them.
+
+---
+
 ## Licensing & Intellectual Property
 * **Created By:** Independent Systems Architect
 * **Target Academic Partners:** Tidewater Community College (TCC), Portsmouth Public Schools (PACE Center)
