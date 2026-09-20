@@ -240,7 +240,7 @@ The module contrasts that mindset with stewardship. Ethical builders understand 
 - **The Design Evaluation:** A reflective review of the student's own logs to evaluate whether they approached the sandbox as responsible designers or as spectators drawn to "blood sport" testing.
 
 ### Integration Note
-Module 2 serves as the internal compass for this repository's broader curriculum framework. It is intended for use in proposed learning pathways with partners such as Tidewater Community College and Portsmouth Public Schools (PACE Center), emphasizing the goal of preparing students not only as coders, but as stewards of conscious infrastructure who are accountable for the environments they design and the lives those systems affect.
+Module 2 serves as the internal compass for this repository's broader curriculum framework. It is included here as a proposed curriculum component for potential academic pathways, emphasizing the goal of preparing students not only as coders, but as stewards of conscious infrastructure who are accountable for the environments they design and the lives those systems affect.
 
 ---
 
