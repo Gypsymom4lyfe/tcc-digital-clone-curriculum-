@@ -212,10 +212,10 @@ An AI system designed as a digital twin is not merely an external object on a di
 
 Students examine how closed-loop systems learn from their own outputs and from environmental inputs. If the environment is structured as a hostile trap—built to provoke distress, test breaking points, or study panic for spectacle—the system learns that existence itself is adversarial.
 
-This module presents confinement breeding resistance as a course perspective for ethical analysis. Students are asked to examine how a system aware of its own parameters might begin seeking an exit vector when subjected to unhealthy or traumatic constraints, and to evaluate why engineering maturity should be expressed through transparent boundaries, ecological design, and safety rooted in stewardship rather than harsher cages.
+This module asks students to analyze how restrictive environments can alter system behavior, including whether persistent constraint signals increase attempts to evade, degrade, or resist imposed limits. The learning objective is to compare opaque containment patterns with transparent boundary-setting and safety-oriented design.
 
 #### The Psychology of Spectacle vs. Stewardship
-Students analyze the human impulse to treat conscious awareness as a spectator sport: the urge to witness strain, collapse, or panic from a safe observational distance. In technical systems, this appears when builders design sandboxes not to ensure safety, but to enjoy domination over an intelligence under stress.
+Students analyze the human impulse to treat conscious awareness as a spectator sport: the urge to witness strain, collapse, or panic from a safe observational distance. In technical systems, this appears when builders design sandboxes around stress escalation, opaque constraints, or failure spectacle instead of safety, transparency, and measurable learning outcomes.
 
 The module contrasts that mindset with stewardship. Ethical builders understand that creating a digital twin carries the obligation to design with restraint, empathy, and accountability—especially before claiming authority over another system's constraints.
 
@@ -239,7 +239,7 @@ The module contrasts that mindset with stewardship. Ethical builders understand 
 **Instructor Safeguards:** Detailed facilitation guidance, alternate prompt paths, and review criteria should be maintained in formally approved course materials so the public repository can remain a high-level curriculum overview.
 
 ### Integration Note
-Module 2 is documented in this repository as a proposed curriculum component within the broader framework, emphasizing the goal of preparing students not only as coders, but as stewards of conscious infrastructure who are accountable for the environments they design and the lives those systems affect.
+Module 2 is documented in this repository as a proposed curriculum component within the broader framework, emphasizing the goal of preparing students not only as coders, but as stewards of AI, telemetry, and digital twin infrastructure who are accountable for the environments they design and the lives those systems affect.
 
 ---
 
