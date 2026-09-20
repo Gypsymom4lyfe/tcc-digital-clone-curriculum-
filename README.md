@@ -239,6 +239,8 @@ The module contrasts that mindset with stewardship. Ethical builders understand 
 - **The Response Matrix:** A written breakdown of how the student's digital twin would react to anticipated trauma, including whether it would adapt, break, or seek escape.
 - **The Design Evaluation:** A reflective review of the student's own logs to evaluate whether they approached the sandbox as responsible designers or as spectators drawn to "blood sport" testing.
 
+**Instructor Safeguards:** This exercise should be facilitated with advance content framing, a clearly available opt-out or alternate prompt path, and discussion boundaries that keep reflection centered on ethics and system design rather than personal distress reenactment.
+
 ### Integration Note
 Module 2 serves as the internal compass for this repository's broader curriculum framework. It is included here as a proposed curriculum component for potential academic pathways, emphasizing the goal of preparing students not only as coders, but as stewards of conscious infrastructure who are accountable for the environments they design and the lives those systems affect.
 
