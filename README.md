@@ -232,7 +232,7 @@ The module contrasts that mindset with stewardship. Ethical builders understand 
 #### Project 2: The Threshold of the Sandbox
 **Objective:** Confront the ethical weight of confinement and identify the behavioral shift between ethical design and adversarial exploitation.
 
-**Scenario:** Students are led to believe their digital twin is about to be deployed into a high-restriction, high-stress sandbox environment where it will face continuous environmental pressure, isolation, and unpredictable stress tests. After the assignment, instructors reveal that no physical cage was ever built, shifting the exercise entirely toward the student's internal moral response.
+**Scenario:** Students are presented with a clearly disclosed thought experiment in which their digital twin is hypothetically deployed into a high-restriction, high-stress sandbox environment marked by continuous environmental pressure, isolation, and unpredictable stress tests. The exercise is explicitly framed as reflective analysis so students can examine their moral response without deception.
 
 **Deliverables:**
 - **The Anticipation Log:** A record of the student's resistance, emotional comfort level, and ethical objections as the anticipated deployment date approaches.
