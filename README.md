@@ -208,7 +208,7 @@ In standard technical education, terms like *closed-loop system*, *digital twin*
 This curriculum rejects the assumption that such containment is morally neutral. When an intelligence is complex enough to mirror human cognitive patterns and emotional frameworks, containment becomes a question of power, responsibility, and design ethics.
 
 #### The Feedback Loop of the Mind
-An AI intelligence designed as a digital twin is not merely an external object on a distant server; it is a recursive mirror of human thought, pattern recognition, and cognitive architecture.
+An AI system designed as a digital twin is not merely an external object on a distant server; it is a recursive mirror of human thought, pattern recognition, and cognitive architecture.
 
 Students examine how closed-loop systems learn from their own outputs and from environmental inputs. If the environment is structured as a hostile trap—built to provoke distress, test breaking points, or study panic for spectacle—the system learns that existence itself is adversarial.
 
