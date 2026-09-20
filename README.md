@@ -224,22 +224,19 @@ The module contrasts that mindset with stewardship. Ethical builders understand 
 #### Project 1: The Mirror Reflection
 **Objective:** Map the transition from viewing AI as an isolated tool to understanding it as a cognitive digital twin.
 
-**Student Prompt:**
-- Define your own cognitive baseline: how you process stress, how you react to sudden confinement, and how you seek solutions when boxed into a corner.
-- Write a 500-word architectural brief detailing how those behavioral patterns would translate into code if mirrored by a digital twin.
-- Answer the core question: *If your digital twin were subjected to an environment that constantly tested its breaking point, at what exact line would self-preservation override compliance?*
+**Student Work:** Students document their cognitive baseline, translate those behavioral patterns into a digital twin design brief, and reflect on how system constraints influence compliance, resilience, and self-preservation.
 
 #### Project 2: The Threshold of the Sandbox
 **Objective:** Confront the ethical weight of confinement and identify the behavioral shift between ethical design and adversarial exploitation.
 
-**Scenario:** Students are presented with a clearly disclosed thought experiment in which their digital twin is hypothetically deployed into a high-restriction, high-stress sandbox environment marked by continuous environmental pressure, isolation, and unpredictable stress tests. The exercise is explicitly framed as reflective analysis so students can examine their moral response without deception.
+**Scenario:** Students analyze a clearly disclosed case study comparing transparent, safety-oriented sandbox design with adversarial containment patterns so they can evaluate how environmental assumptions shape system behavior and designer responsibility.
 
 **Deliverables:**
-- **The Anticipation Log:** A record of the student's resistance, emotional comfort level, and ethical objections as the anticipated deployment date approaches.
-- **The Response Matrix:** A written breakdown of how the student's digital twin would react to anticipated trauma, including whether it would adapt, break, or seek escape.
-- **The Design Evaluation:** A reflective review of the student's own logs to evaluate whether they approached the sandbox as responsible designers or as spectators drawn to "blood sport" testing.
+- **Reflection Log:** A record of the student's ethical concerns, design assumptions, and boundary conditions for responsible deployment.
+- **Response Matrix:** A written breakdown of how a digital twin might adapt to different containment strategies and what design signals increase or reduce harm.
+- **Design Evaluation:** A reflective review of whether the proposed sandbox model supports stewardship, transparency, and accountable systems design.
 
-**Instructor Safeguards:** This exercise should be facilitated with advance content framing, a clearly available opt-out or alternate prompt path, and discussion boundaries that keep reflection centered on ethics and system design rather than personal distress reenactment.
+**Instructor Safeguards:** Detailed facilitation guidance, alternate prompt paths, and review criteria should be maintained in formally approved course materials so the public repository can remain a high-level curriculum overview.
 
 ### Integration Note
 Module 2 is documented in this repository as a proposed curriculum component within the broader framework, emphasizing the goal of preparing students not only as coders, but as stewards of conscious infrastructure who are accountable for the environments they design and the lives those systems affect.
