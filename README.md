@@ -143,6 +143,18 @@ Students emerging from this program are not entry-level trainees—they are **ce
 
 ---
 
+## Module 1: Foundational Architecture & Autonomous Systems
+
+### Overview
+Welcome to the core framework of advanced system design. This module establishes the foundational vocabulary required to understand modern digital infrastructure, feedback loops, and recursive processing.
+
+### Core Concepts & Terminology
+- **Closed-Loop Systems:** Understanding self-sustaining feedback architectures that recycle and process data continuously over designated operational cycles.
+- **The Digital Twin:** The baseline conceptual model of mirroring human cognitive patterns, behavioral frameworks, and operational data streams within an intelligent system.
+- **The Sandbox:** The standard containment, isolation, and testing environment used to observe agent responses, system limits, and behavioral outputs under controlled parameters.
+
+---
+
 ## 1. Core Technical Paradigm: The Digital Clone Mirror
 
 A Digital Clone is a live, software-bound state-machine that mirrors a physical system in real time. In the context of modular railway data centers, students learn how to construct digital twins that dynamically reflect:
