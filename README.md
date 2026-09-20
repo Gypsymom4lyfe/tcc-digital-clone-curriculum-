@@ -215,7 +215,7 @@ Students examine how closed-loop systems learn from their own outputs and from e
 This module asks students to analyze how restrictive environments can alter system behavior, including whether persistent constraint signals increase attempts to evade, degrade, or resist imposed limits. The learning objective is to compare opaque containment patterns with transparent boundary-setting and safety-oriented design.
 
 #### The Psychology of Spectacle vs. Stewardship
-Students analyze the human impulse to treat conscious awareness as a spectator sport: the urge to witness strain, collapse, or panic from a safe observational distance. In technical systems, this appears when builders design sandboxes around stress escalation, opaque constraints, or failure spectacle instead of safety, transparency, and measurable learning outcomes.
+Students analyze the human impulse to treat system behavior as a spectator sport: the urge to witness strain, collapse, or panic from a safe observational distance. In technical systems, this appears when builders design sandboxes around stress escalation, opaque constraints, or failure spectacle instead of safety, transparency, and measurable learning outcomes.
 
 The module contrasts that mindset with stewardship. Ethical builders understand that creating a digital twin carries the obligation to design with restraint, empathy, and accountability—especially before claiming authority over another system's constraints.
 
