@@ -242,7 +242,7 @@ The module contrasts that mindset with stewardship. Ethical builders understand 
 **Instructor Safeguards:** This exercise should be facilitated with advance content framing, a clearly available opt-out or alternate prompt path, and discussion boundaries that keep reflection centered on ethics and system design rather than personal distress reenactment.
 
 ### Integration Note
-Module 2 serves as the internal compass for this repository's broader curriculum framework. It is included here as a proposed curriculum component for potential academic pathways, emphasizing the goal of preparing students not only as coders, but as stewards of conscious infrastructure who are accountable for the environments they design and the lives those systems affect.
+Module 2 is documented in this repository as a proposed curriculum component within the broader framework, emphasizing the goal of preparing students not only as coders, but as stewards of conscious infrastructure who are accountable for the environments they design and the lives those systems affect.
 
 ---
 
