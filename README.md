@@ -243,7 +243,43 @@ Module 2 is documented in this repository as a proposed curriculum component wit
 
 ---
 
-## 5. Capstone Project: Expert Field Agents & Passion-Driven Digital Twins
+## 5. Curriculum Module: Digital Clone Design, Simulation, and Tracking
+
+### Program Track
+**Decentralized Edge Computing & Systems Architecture**
+
+### Module Overview
+This module guides students through the creation of localized digital clones: software-based simulation models and digital twins of physical edge assets such as modular data carts, solar-substation microgrids, and transit-mounted compute nodes. Students study how these clones process telemetry, interact with distributed systems, and simulate decentralized behavior before physical deployment.
+
+### Core Learning Objectives
+- **Model Design:** Translate physical system parameters such as power draw, thermal output, solar yield, and movement vectors into programmatic digital twin models.
+- **Telemetry & State Tracking:** Implement logging pipelines that compare the real-time state of student-created digital clones against baseline physical metrics.
+- **Edge Synchronization:** Study how simulated models synchronize state across distributed mesh environments without overloading central bandwidth.
+
+### Curriculum Units & Practical Labs
+
+#### Unit 1: Introduction to Digital Twins & Edge Modeling
+- **Concept:** Define digital clones within decentralized infrastructure and distinguish between static simulations and active edge-synchronized twins.
+- **Lab Exercise:** Build a foundational Python/FastAPI prototype representing a solar-powered substation node with tracked variables such as state of charge, ambient temperature, and compute load.
+
+#### Unit 2: Behavioral Simulation & Environmental Stress Testing
+- **Concept:** Evaluate how digital clones respond to changing external conditions such as low-sun periods, stop-and-go transit patterns, and variable bandwidth loads.
+- **Lab Exercise:** Use Python and Three.js-based visualization workflows to observe simulated clone behavior in real time during controlled disruptions.
+
+#### Unit 3: Distributed Tracking & Repository Integration
+- **Concept:** Establish validation protocols and tracking scripts for monitoring clone performance across multi-node mesh scenarios.
+- **Lab Exercise:** Implement automated test coverage for telemetry math and integrate tracking modules into the shared repository structure with reviewable validation outputs.
+
+### Assessment & Final Project
+- **Deliverable:** Each student or team deploys an isolated digital clone of a mobile transit node or stationary substation into a staging environment.
+- **Evaluation Criteria:** Assessment focuses on simulation accuracy against real-world power and compute constraints, the cleanliness and modularity of tracking code, and successful integration within the shared repository framework.
+
+### Integration Note
+This module is documented in the repository as a proposed curriculum component for students learning how to model, simulate, and validate decentralized edge assets through digital twin workflows.
+
+---
+
+## 6. Capstone Project: Expert Field Agents & Passion-Driven Digital Twins
 
 ### Program Track
 **Autonomous Systems, Specialized Knowledge, & Responsible AI**
