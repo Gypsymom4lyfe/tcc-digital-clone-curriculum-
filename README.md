@@ -193,6 +193,71 @@ Students trained through this curriculum do not just learn theoretical programmi
 
 ---
 
+## 4. Curriculum Module: Data Storage & Efficient Analytics
+
+### Program Track
+**Information Architecture, Edge Computing, & Data Engineering**
+
+### Module Overview
+This module trains students on the lifecycle of digital information—from raw data collection to intelligent local storage and efficient processing. Students learn the difference between storing bulk raw data, curating high-utility datasets, and applying edge-computing principles to reduce waste, storage bloat, and unnecessary transmission.
+
+### Core Learning Objectives
+* **Storage Hierarchy:** Understand hot vs. cold storage, local edge caching versus centralized repositories, and the physical constraints of storage media.
+* **Signal vs. Noise in Data:** Learn how to filter, clean, and structure raw data inputs so that storage is dedicated to high-utility information rather than redundant clutter.
+* **Efficient Analytics at the Edge:** Explore how lightweight processing pipelines analyze data locally, minimizing power and bandwidth overhead before long-term archiving.
+
+### Curriculum Units & Practical Labs
+
+#### Unit 1: Principles of Useful Data Storage
+* **Concept:** Evaluating what data is worth keeping. Understanding indexing, schema design, and why storing unstructured bulk data without a retrieval strategy creates digital landfills.
+* **Lab Exercise:** Design a lightweight local data logging schema for a simulated sensor array, such as a transit weather or traffic monitor, prioritizing high-value metrics over redundant streams.
+
+#### Unit 2: Managing Bulk Data Sustainably
+* **Concept:** Examining the environmental and structural cost of massive data repositories. Learning compression techniques, deduplication, and tiered retention policies.
+* **Lab Exercise:** Compress and optimize a large, messy dataset, measuring the reduction in storage footprint and access latency.
+
+#### Unit 3: Introduction to Edge Analytics
+* **Concept:** Shifting from "store everything in the cloud" to processing data at the point of collection. Understanding how edge nodes filter and analyze telemetry in real time.
+* **Lab Exercise:** Write a basic data-filtering script that flags anomalies or critical insights locally, discarding non-essential noise before syncing with a central database.
+
+### Deliverable & Assessment
+* **The Data Architecture Blueprint:** A student-designed storage and analytics framework for a small-scale decentralized project, such as a transit node data cart or local weather station.
+
+---
+
+## 5. Capstone Project Blueprint: The Hive-Mind Student Mesh
+
+### Program Track
+**Distributed Systems, Collective Intelligence, & Sustainable Architecture**
+
+### Project Overview
+The Hive-Mind Student Mesh moves students away from isolated, siloed learning and into a collaborative, decentralized collective. Modeled after distributed edge-computing networks and low-bloat data architectures, this capstone trains student cohorts to function as a synchronized node network—sharing clean data, filtering digital noise, and solving complex regional challenges together.
+
+### Core Objectives
+* **Collective Intelligence:** Demonstrate how a coordinated group sharing high-utility data outperforms isolated traditional models.
+* **Distributed Problem Solving:** Divide a large-scale civic or environmental challenge, such as regional transit efficiency, rail spur revitalization, or micro-weather monitoring, across student sub-nodes.
+* **Anti-Bloat Protocols:** Enforce strict data hygiene so every shared data point is purposeful, verified, and stripped of digital spam before entering the collective mesh.
+
+### Operational Mechanics & Phases
+
+#### Phase 1: Node Initialization & Query Training
+* **Action:** Each student or small team establishes its local node, applying foundational query strategies and noise-reduction techniques to gather primary data on an assigned sector such as transit corridors, energy substations, or local flora and fauna monitoring.
+
+#### Phase 2: Local Edge Processing & Filtering
+* **Action:** Students process their raw findings locally, distilling bulk data into high-value insights, metadata, and actionable intelligence rather than preserving raw, unorganized storage dumps.
+
+#### Phase 3: Mesh Synchronization & Collective Synthesis
+* **Action:** Student nodes connect through a shared repository or local exchange protocol. Rather than relying on a single central authority, the cohort aggregates cleaned insights into a unified Super Mesh model that identifies patterns, infrastructure bottlenecks, and ecological opportunities across the regional map.
+
+### Comparative Evaluation
+* **The Contrast:** Compare the output, speed, and accuracy of the student Hive-Mind Mesh against a simulated traditional model burdened by administrative spam and redundant individual busywork.
+* **Key Metric:** Total useful signal generated versus energy, time, and computational waste expended.
+
+### Final Deliverable
+* **The Regional Blueprint:** A fully synchronized, open-source collective intelligence report and interactive map maintained by the student mesh network.
+
+---
+
 ## Licensing & Intellectual Property
 * **Created By:** Independent Systems Architect
 * **Target Academic Partners:** Tidewater Community College (TCC), Portsmouth Public Schools (PACE Center)
