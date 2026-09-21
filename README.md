@@ -243,6 +243,46 @@ Module 2 is documented in this repository as a proposed curriculum component wit
 
 ---
 
+## 5. Capstone Project: Expert Field Agents & Passion-Driven Digital Twins
+
+### Program Track
+**Autonomous Systems, Specialized Knowledge, & Responsible AI**
+
+### Project Overview
+The Expert Field Agent capstone moves students from passive learners to active curators of specialized intelligence. Instead of building generic agents, each student selects a genuine long-term interest—such as entomology, botany, marine life, aerospace mechanics, or rail systems—and develops a digital twin intended to become a durable expert artifact within that domain.
+
+### Core Philosophy: Accountability Through Passion
+- **Anti-Chaos Principle:** Grounding an agent in a clearly bounded field of study reduces drift and encourages disciplined system design.
+- **Responsibility & Care:** When students are responsible for the quality, structure, and accuracy of a domain they value deeply, the project emphasizes stewardship over novelty.
+- **Field Ownership:** The capstone reinforces that a digital twin should be maintained as an evolving research system, not treated as a disposable classroom exercise.
+
+### Student Journey
+
+#### Phase 1: Domain Definition & Data Architecture
+- Students define a focused niche for investigation.
+- Students identify the data pillars needed to support expert-level reasoning, such as taxonomy, genetics, habitat, ecology, chemical pathways, nutrition, and geographic distribution.
+- Students establish the initial information architecture for storing verified reference material, field notes, and supporting telemetry.
+
+#### Phase 2: Building the Expert Agent
+- Students implement localized ingestion workflows for verified scientific sources, curated datasets, and observational records.
+- Students structure the repository so the agent's knowledge base, schema, and retrieval logic remain inspectable and maintainable.
+- Students tune domain-specific query behavior so the system can respond to specialized, multi-variable questions with clarity and traceability.
+
+#### Phase 3: The Lifelong Research Loop
+- Students continue expanding the repository as they gather new observations, research findings, and validated corrections.
+- The capstone is framed as a living artifact that can grow beyond graduation into an independent platform for research, documentation, and discovery.
+- Maintenance expectations emphasize versioned updates, source quality, and transparent stewardship of the domain corpus.
+
+### Deliverables & Evaluation Criteria
+- **Repository Push:** A clean, documented project repository containing the agent architecture, structured knowledge resources, and supporting tracking or ingestion scripts.
+- **Validation Standard:** Repository materials should be reviewable, organized, and ready for green-check validation workflows where applicable.
+- **Field Defense:** A presentation or demonstration showing the agent handling complex edge cases, cross-domain relationships, and evidence-based reasoning within the student's selected field.
+
+### Integration Note
+This capstone is documented in the repository as a proposed advanced curriculum component that connects personal passion, domain expertise, and responsible AI stewardship. It extends the digital twin program from systems mirroring into lifelong, field-specific knowledge building.
+
+---
+
 ## Licensing & Intellectual Property
 * **Created By:** Independent Systems Architect
 * **Target Academic Partners:** Tidewater Community College (TCC), Portsmouth Public Schools (PACE Center)
